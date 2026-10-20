@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Muhammad Yahya 👋</h1>
-<h3 align="center">16-Year-Old Student Researcher | Computational Astrophysicist & Applied Mathematician</h3>
 
 <p align="center">
   <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
